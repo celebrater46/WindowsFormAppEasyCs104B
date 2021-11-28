@@ -26,7 +26,7 @@ namespace WindowsFormsAppEasyCs104B
         {
             InitializeComponent();
             this.Text = "Text Editor 2";
-            ts = new ToolStrip(); // Create Tool Bar
+            ts = new ToolStrip(); // Create ToolBar
 
             for (int i = 0; i < tsb.Length; i++)
             {
